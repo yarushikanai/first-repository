@@ -1,2 +1,2 @@
 # first-repository
-てきとう
+このREADME.mdで説明するお
